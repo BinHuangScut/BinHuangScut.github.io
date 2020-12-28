@@ -9,6 +9,7 @@ location: "City, Country"
 ---
 
 China National Scholarship, Ministry of Education of China, September 2013. (0.2%)
+
 Heading 1
 ======
 
