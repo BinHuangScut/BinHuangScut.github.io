@@ -1,6 +1,6 @@
 ---
 collection: awards
-permalink: /awards/awardslist
+permalink: /awards/awards list
 ---
 
 - China National Scholarship, Ministry of Education of China, September 2013. (0.2%)
