@@ -22,47 +22,34 @@ Education
 * B.S. in Hydropower Engineering, Huazhong University of Science and Technology, Wuhan, China, 2016
   * Thesis: Chaotic Anti-predator Particle Swarm Optimization for Short-term Generation Scheduling in Hydrothermal Power System, supervisor: Dr. Hui Qin
   * GPA: 90.0/100 3.92/4
-    
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>    
   
+Projects
+======
+  <ul>{% for post in site.projects %}
+    {% include archive-single-project-cv.html %}
+  {% endfor %}</ul>
+    
+Skills
+======
+* Python: Pytorch, Tensorflow, numpy, pandas, seaborn, matplotlib, etc.
+* Matlab: Simulink, MATPOWER, optimization toolbox, etc.
+* Optimization Modeling and Solver: GAMS, AMPL, Gurobi, and Ipopt
+* Linux and the usage of HPC
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+  <ul>{% for post in site.awards %}
+    {% include archive-single-award-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
