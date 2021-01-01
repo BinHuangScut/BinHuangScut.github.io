@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Bin Huang's home on the web!
+Hi there.
 
 -------
 I am currently pursuing the  Ph.D. degree in electrical engineering under the supervision of Dr. Jianhui Wang at Southern Methodist University, Dallas, USA. 
