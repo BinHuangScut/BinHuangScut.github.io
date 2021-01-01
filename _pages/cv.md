@@ -29,11 +29,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>    
   
-Projects
-======
-  <ul>{% for post in site.projects %}
-    {% include archive-single-project-cv.html %}
-  {% endfor %}</ul>
     
 Skills
 ======
@@ -48,8 +43,3 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Awards
-======
-  <ul>{% for post in site.awards %}
-    {% include archive-single-award-cv.html %}
-  {% endfor %}</ul>
