@@ -1,6 +1,6 @@
 ---
 collection: projects
-permalink: /projects/projects list
+
 ---
 
 - Machine Learning-power Battery Storage Modeling and Evaluation for Fast Frequency Regulation Service (11. 2019-present)
