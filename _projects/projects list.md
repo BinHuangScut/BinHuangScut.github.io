@@ -4,7 +4,6 @@ permalink: /projects/projects list
 ---
 
 - Machine Learning-power Battery Storage Modeling and Evaluation for Fast Frequency Regulation Service (11. 2019-present)
-
     Southwest Research Institute and SMU
     1. accurate model for battery based FFRS, which allows the integration of stationary/mobile batteries, renewable energy generation units as well as different energy demand patterns;
     2. battery safety control scheme, which can adopt different ancillary services and market mechanisms; 
