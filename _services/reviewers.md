@@ -1,4 +1,9 @@
-### IEEE Journals
+---
+collection: services
+
+---
+
+Journals
 - IEEE Trans on Neural Networks and Learning Systems
 - IEEE Trans on Smart Grid
 - IEEE Trans on Power Systems
@@ -6,7 +11,6 @@
 - IEEE Trans on Energy Markets, Policy, and Regulation
 - IEEE Trans on Network Science and Engineering
 - IEEE Journal of Emerging and Selected Topics in Industrial Electronics 
-### Other Journals
 - Renewable and Sustainable Energy Reviews
 - International Journal of Electrical Power and Energy Systems
 - Energy Reports
@@ -15,7 +19,8 @@
 - Expert Systems With Applications
 - Knowledge-Based Systems
 - Energy and AI
-### Conferences
+
+Conferences
 - IEEE Power & Energy Society General Meeting 2022
 - IEEE Power & Energy Society General Meeting 2023
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2023
