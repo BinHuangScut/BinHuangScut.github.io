@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects Experience"
+  - title: "Projects"
     url: /projects/
 
   - title: "Talks"
@@ -11,7 +11,9 @@ main:
 
   - title: "Awards"
     url: /awards/
-    
+
+  - title: "Services"
+    url: /services/
   #- title: "Portfolio"
   #  url: /portfolio/
         
