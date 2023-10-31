@@ -1,9 +1,3 @@
----
-title: "Reviewing Committee"
-collection: services
-permalink: /services/reviewer
----
-
 ### IEEE Journals
 - IEEE Trans on Neural Networks and Learning Systems
 - IEEE Trans on Smart Grid
