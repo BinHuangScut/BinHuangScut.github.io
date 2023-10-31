@@ -1,5 +1,7 @@
 ---
+title: "Reviewing Committee"
 collection: services
+permalink: /services/reviewer
 ---
 
 ### IEEE Journals
