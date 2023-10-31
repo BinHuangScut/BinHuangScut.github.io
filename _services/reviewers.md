@@ -1,4 +1,3 @@
-# Update the content of the service file
 ---
 title: "Reviewers for"
 collection: services
