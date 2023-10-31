@@ -1,7 +1,6 @@
 ---
-title: "Reviewers"
 collection: services
-permalink: /services
+
 ---
 
 ### IEEE Journals
