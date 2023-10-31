@@ -1,10 +1,8 @@
 ---
-title: "Reviewers for"
+title: "Reviewers"
 collection: services
-permalink: /services/reviewers
+permalink: /services
 ---
-
-## Reviewers for:
 
 ### IEEE Journals
 - IEEE Trans on Neural Networks and Learning Systems
