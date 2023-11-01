@@ -19,10 +19,13 @@ engineering from South China University of Technology, China, in 2019.
 Alma Mater
 ------
 SMU Lyle School, Dallas, U.S.
-![SMU Lyle School, [image source](https://www.smu.edu/Lyle/Apply-Now/Resources)](/images/smu.png)
+![SMU Lyle School](/images/smu.png)
+[image source](https://www.smu.edu/Lyle/Apply-Now/Resources)
 
 South China University of Technology, Guangzhou, China
-![SMU Lyle School, [image source](https://commons.wikimedia.org/wiki/User:TimWu007)](/images/scut.jpg)
+![Scut](/images/scut.jpg)
+[image source](https://commons.wikimedia.org/wiki/User:TimWu007)
 
 Huazhong University of Science and Technology, Wuhan, China
-![SMU Lyle School, [image source](https://www.hust.edu.cn/)](/images/hust.jpg)
+![HUST](/images/hust.jpg)
+[image source](https://www.hust.edu.cn/)
