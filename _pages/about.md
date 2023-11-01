@@ -20,6 +20,7 @@ Alma Mater
 ------
 SMU Lyle School, Dallas, U.S.
 ![SMU Lyle School](/images/smu.png)
+
 [image source](https://www.smu.edu/Lyle/Apply-Now/Resources)
 
 South China University of Technology, Guangzhou, China
