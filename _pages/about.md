@@ -15,3 +15,14 @@ You can find my resume [here](http://binhuangscut.github.io/files/cv_BinHuang.pd
 
 I received the B.S. degree from Huazhong University of Science and Technology, China, in 2016, and the M.S. degree in electrical
 engineering from South China University of Technology, China, in 2019.
+
+Alma Mater
+------
+SMU Lyle School, Dallas, U.S.
+![SMU Lyle School, [image source](https://www.smu.edu/Lyle/Apply-Now/Resources)](/images/smu.png)
+
+South China University of Technology, Guangzhou, China
+![SMU Lyle School, [image source](https://commons.wikimedia.org/wiki/User:TimWu007)](/images/scut.jpg)
+
+Huazhong University of Science and Technology, Wuhan, China
+![SMU Lyle School, [image source](https://www.hust.edu.cn/)](/images/hust.jpg)
