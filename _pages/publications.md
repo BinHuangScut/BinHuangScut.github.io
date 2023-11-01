@@ -17,6 +17,8 @@ author_profile: true
 
 
 ## Journals
+{{ author.googlescholar }}
+
 6. **B. Huang**, T. Zhao, M. Yue and J. Wang, "Bi-Level Adaptive Storage Expansion Strategy for Microgrids Using Deep Reinforcement Learning," in IEEE Transactions on Smart Grid, doi: 10.1109/TSG.2023.3312225. [Link](https://ieeexplore.ieee.org/abstract/document/10246411)
 
 5. **B. Huang** and J. Wang,“Adaptive Static Equivalences for Active Distribution Networks with Massive Renewable Energy Integration: A Distributed Deep Reinforcement Learning Approach,” in IEEE Transactions on Network Science and Engineering, doi:10.1109/TNSE.2023.3272794. [Link](https://ieeexplore.ieee.org/abstract/document/10114954)
