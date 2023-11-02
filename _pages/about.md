@@ -29,6 +29,6 @@ South China University of Technology, Guangzhou, China
 [image source](https://commons.wikimedia.org/wiki/User:TimWu007)
 
 Huazhong University of Science and Technology, Wuhan, China
-![HUST](/images/hust2.jpg)
+![HUST](/images/hust2.png)
 
 [image source](https://www.hust.edu.cn/)
