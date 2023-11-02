@@ -24,9 +24,11 @@ SMU Lyle School, Dallas, U.S.
 [image source](https://www.smu.edu/Lyle/Apply-Now/Resources)
 
 South China University of Technology, Guangzhou, China
-![Scut](/images/scut.jpg)
+![Scut](/images/scut2.jpg)
+
 [image source](https://commons.wikimedia.org/wiki/User:TimWu007)
 
 Huazhong University of Science and Technology, Wuhan, China
-![HUST](/images/hust.jpg)
+![HUST](/images/hust2.jpg)
+
 [image source](https://www.hust.edu.cn/)
