@@ -6,14 +6,11 @@ nav: true
 nav_order: 9
 ---
 
-This page shows **total pageviews** and an interactive **visitor location map** (similar to [TBendong's site](https://tbendong.github.io/)).
-
 {% if site.clustrmaps_src %}
-<p class="text-muted"><strong>Total pageviews</strong> and visitor locations are shown in the map below. Click the map to zoom and explore.</p>
-<div class="visitor-map-wrapper" id="clstr_globe" style="height: 520px; min-height: 520px; margin-top: 1rem; width: 100%;">
-  <script type="text/javascript" src="{{ site.clustrmaps_src }}"></script>
+<div class="visitor-map-wrapper" style="min-height: 400px; width: 100%;">
+  <script type="text/javascript" id="clustrmaps" src="{{ site.clustrmaps_src }}"></script>
 </div>
-<noscript>Enable JavaScript to view the visitor map.</noscript>
+<noscript><a href="https://clustrmaps.com/site/1c99a" title="ClustrMaps"><img src="https://www.clustrmaps.com/map_v2.png?d=Kq5GcIykQsC0v_dFcW4gdy4oSTha7cw8ZLzPrjmYqKU&cl=ffffff" alt="Visitor map" style="max-width: 100%;"></a></noscript>
 {% else %}
 <div class="visitor-stats-setup">
   <p><strong>Total pageviews</strong> and the <strong>visitor map</strong> can be displayed here after a one-time setup. Choose one of the following:</p>
