@@ -7,6 +7,7 @@ nav_order: 9
 ---
 
 {% if site.clustrmaps_src %}
+
 <div class="visitor-map-wrapper" style="min-height: 400px; width: 100%;">
   <script type="text/javascript" id="clustrmaps" src="{{ site.clustrmaps_src }}"></script>
 </div>

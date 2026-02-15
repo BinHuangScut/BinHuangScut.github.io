@@ -9,11 +9,11 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
-      <a href="https://www.linkedin.com/in/bin-huang-051a11198/"><i class="fa-brands fa-linkedin fa-2x"></i></a>
-      <a href="https://scholar.google.com/citations?user=l_nTcokAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-2x"></i></a>
-      <a href="https://orcid.org/0000-0001-5883-7370"><i class="fa-brands fa-orcid fa-2x"></i></a>
-      <a href="https://github.com/BinHuangScut"><i class="fa-brands fa-square-github fa-2x"></i></a>
-      <p> Email: bin@smu.edu</p>
+    <a href="https://www.linkedin.com/in/bin-huang-051a11198/"><i class="fa-brands fa-linkedin fa-2x"></i></a>
+    <a href="https://scholar.google.com/citations?user=l_nTcokAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+    <a href="https://orcid.org/0000-0001-5883-7370"><i class="fa-brands fa-orcid fa-2x"></i></a>
+    <a href="https://github.com/BinHuangScut"><i class="fa-brands fa-square-github fa-2x"></i></a>
+    <p> Email: bin@smu.edu</p>
 
 news: true # includes a list of news items
 ---

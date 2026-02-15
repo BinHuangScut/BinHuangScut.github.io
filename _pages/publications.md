@@ -5,6 +5,7 @@ permalink: /Publications/
 nav: true
 nav_order: 2
 ---
+
 <!-- _pages/publications.md -->
 <style>
 .section-title { padding-bottom: 0.4em; border-bottom: 3px solid #007BFF; margin-bottom: 0.4em; display: block; }

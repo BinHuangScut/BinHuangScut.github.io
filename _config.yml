@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Bin
-middle_name: 
+middle_name:
 last_name: Huang
 email: bin@smu.edu
 contact_note: >
@@ -38,8 +38,6 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-
-  
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------

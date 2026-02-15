@@ -1,15 +1,7 @@
-{% comment %}
-  Renders site.news grouped by year (newest first). Each news item should have:
-  date: YYYY-MM-DD
-  caption: short text (or use content for body)
-{% endcomment %}
-{% assign news_sorted = site.news | sort: 'date' | reverse %}
-{% assign current_year = "" %}
-{% for n in news_sorted %}
-  {% assign n_year = n.date | date: "%Y" %}
-  {% if current_year != n_year %}
-    {% assign current_year = n_year %}
+{% comment %} Renders site.news grouped by year (newest first). Each news item should have: date: YYYY-MM-DD caption: short text (or use content for
+body) {% endcomment %} {% assign news_sorted = site.news | sort: 'date' | reverse %} {% assign current_year = "" %} {% for n in news_sorted %} {%
+assign n_year = n.date | date: "%Y" %} {% if current_year != n_year %} {% assign current_year = n_year %}
 <h4 id="{{ current_year }}">{{ current_year }}</h4>
-  {% endif %}
+{% endif %}
 <p>{{ n.date | date: "%Y-%m-%d" }} {{ n.caption }}</p>
 {% endfor %}

@@ -36,10 +36,16 @@ layout: default
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
         {% if site.clustrmaps_src %}
-        <div class="visitor-map-about" style="width: 100%; max-width: 320px; margin-top: 1rem;">
-          <script type="text/javascript" id="clustrmaps" src="{{ site.clustrmaps_src }}"></script>
-        </div>
-        <noscript><a href="https://clustrmaps.com/site/1c99a" title="ClustrMaps"><img src="https://www.clustrmaps.com/map_v2.png?d=Kq5GcIykQsC0v_dFcW4gdy4oSTha7cw8ZLzPrjmYqKU&cl=ffffff" alt="Visitor map" style="max-width: 100%;"></a></noscript>
+          <div class="visitor-map-about" style="width: 100%; max-width: 320px; margin-top: 1rem;">
+            <script type="text/javascript" id="clustrmaps" src="{{ site.clustrmaps_src }}"></script>
+          </div>
+          <noscript
+            ><a href="https://clustrmaps.com/site/1c99a" title="ClustrMaps"
+              ><img
+                src="https://www.clustrmaps.com/map_v2.png?d=Kq5GcIykQsC0v_dFcW4gdy4oSTha7cw8ZLzPrjmYqKU&cl=ffffff"
+                alt="Visitor map"
+                style="max-width: 100%;"></a
+          ></noscript>
         {% endif %}
       </div>
     {% endif %}
