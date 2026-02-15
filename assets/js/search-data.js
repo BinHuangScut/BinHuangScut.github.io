@@ -42,21 +42,14 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Services/";
+            window.location.href = "/services/";
           },
-        },{id: "nav-people",
-          title: "People",
+        },{id: "nav-blog-posts",
+          title: "Blog posts",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/People/";
-          },
-        },{id: "nav-openings",
-          title: "Openings",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Openings/";
+            window.location.href = "/year-archive/";
           },
         },{id: "nav-visitor-statistics",
           title: "Visitor Statistics",
@@ -498,11 +491,26 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2023-06-01-ms-degree/";
+            },},{id: "news-phd-degree",
+          title: 'Phd Degree',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2023-10-01-phd-degree/";
+            },},{id: "news-joined-eversource",
+          title: 'Joined Eversource',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2023-12-01-joined-eversource/";
             },},{id: "news-joined-smu",
           title: 'Joined Smu',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-08-01-joined-smu/";
+            },},{id: "news-puf-top-innovators",
+          title: 'Puf Top Innovators',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-01-01-puf-top-innovators/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
