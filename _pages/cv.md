@@ -1,45 +1,38 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+layout: page
+permalink: /CV/
+title: CV
+nav: true
+nav_order: 5
 ---
 
-{% include base_path %}
+<div class="cv">
 
-Education
-======
-* Ph.D in Electrical Engineering, Southern Methodist University, Dallas, United States, 2022 (expected)
-  * supervisor: Dr. Jianhui Wang, Fellow, IEEE
-  * GPA: 4/4
-  
-* M.S. in Electrical Engineering (Power System and Its Automation), South China University of Technology, Guangzhou, China, 2019
-  * Thesis: A Probabilistic Approach for Equivalence of Active Distribution Networks Considering the Uncertainty of Renewable Energy Sources, supervisor: Prof. Q. H. Wu, Fellow, IEEE
-  * GPA: 88.5/100 3.75/4
+  <!-- Education -->
+  <section>
+    <h4>Education</h4>
+    <ul>
+      <li><strong>Ph.D. in Electrical Engineering</strong>, Southern Methodist University, Dallas, USA (in progress)</li>
+      <li><strong>M.S. in Electrical Engineering</strong>, South China University of Technology, Guangzhou, China, 2019</li>
+      <li><strong>B.S. in Hydropower Engineering</strong>, Huazhong University of Science and Technology, Wuhan, China, 2016</li>
+    </ul>
+  </section>
 
-* B.S. in Hydropower Engineering, Huazhong University of Science and Technology, Wuhan, China, 2016
-  * Thesis: Chaotic Anti-predator Particle Swarm Optimization for Short-term Generation Scheduling in Hydrothermal Power System, supervisor: Dr. Hui Qin
-  * GPA: 90.0/100 3.92/4
-  
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>    
-  
-    
-Skills
-======
-* Python: Pytorch, Tensorflow, numpy, pandas, seaborn, matplotlib, etc.
-* Matlab: Simulink, MATPOWER, optimization toolbox, etc.
-* Optimization Modeling and Solver: GAMS, AMPL, Gurobi, and Ipopt
-* Linux and the usage of HPC
+  <!-- Experience -->
+  <section>
+    <h4>Experience</h4>
+    <ul>
+      <li><strong>Ph.D. Research Assistant</strong>, Southern Methodist University, 2022 – Present (advised by Dr. Jianhui Wang)</li>
+      <li><strong>Research Assistant</strong>, South China University of Technology, 2017 – 2019</li>
+    </ul>
+  </section>
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+  <!-- Honors and Awards -->
+  <section>
+    <h4>Honors and Awards</h4>
+    <ul>
+      <li>Details see full CV. <a href="/assets/pdf/cv.pdf">Download CV (PDF)</a></li>
+    </ul>
+  </section>
+
+</div>

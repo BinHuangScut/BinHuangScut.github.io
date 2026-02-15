@@ -1,27 +1,25 @@
-# main links links
+# Match tbendong.github.io: About, Publications, Research, Teaching, CV, Services, People, Openings
 main:
+  - title: "About"
+    url: /
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /projects/
+  - title: "Research"
+    url: /research/
 
-  - title: "Talks"
-    url: /talks/
+  - title: "Teaching"
+    url: /teaching/
 
-  - title: "Awards"
-    url: /awards/
+  - title: "CV"
+    url: /cv/
 
   - title: "Services"
     url: /services/
-  #- title: "Portfolio"
-  #  url: /portfolio/
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  #- title: "Guide"
-  #  url: /markdown/
+
+  - title: "People"
+    url: /people/
+
+  - title: "Openings"
+    url: /openings/
