@@ -2,7 +2,7 @@
 layout: page
 permalink: /People/
 title: People
-nav: true
+nav: false
 nav_order: 7
 ---
 
@@ -18,4 +18,4 @@ h4 {
 </style>
 
 <p>Information about current and past group members will be listed here.</p>
-<p><strong>Coming soon.</strong> If you are interested in joining the group, please see <a href="/Openings/">Openings</a> or contact me by <a href="mailto:bin@smu.edu">email</a>.</p>
+<p><strong>Coming soon.</strong> If you are interested in joining the group, please see <a href="/Openings/">Openings</a> or contact me by <a href="mailto:binhuangcn95@gmail.com">email</a>.</p>

@@ -1,4 +1,4 @@
 ---
 date: 2024-08-01
-caption: "Joined Southern Methodist University as a Ph.D. student in electrical engineering, advised by Dr. Jianhui Wang."
+caption: "Invited talks at IEEE PES General Meeting 2024 (Seattle) and UA Week 2024 (Chicago)."
 ---

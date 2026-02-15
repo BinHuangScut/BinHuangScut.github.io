@@ -2,7 +2,7 @@
 layout: page
 permalink: /Openings/
 title: Openings
-nav: true
+nav: false
 nav_order: 8
 ---
 
@@ -17,7 +17,7 @@ h4 { border-bottom: 1.5px solid #007BFF; padding-bottom: 0.4em; margin-bottom: 0
 
 <div class="faculty-profile">
   <h4>How to Apply</h4>
-  <p>If you are interested, please send me an email at <a href="mailto:bin@smu.edu">bin@smu.edu</a> with:</p>
+  <p>If you are interested, please send me an email at <a href="mailto:binhuangcn95@gmail.com">binhuangcn95@gmail.com</a> with:</p>
   <ul>
     <li><strong>Subject line:</strong> <code>{PhD/Postdoc Application}-{Your Name}</code> (e.g., PhD/Postdoc Application-Ming Li)</li>
     <li><strong>Attachments:</strong> Your CV, transcripts (for Ph.D. applicants; postdocs may omit), and representative publications (if any)</li>

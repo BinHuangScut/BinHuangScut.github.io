@@ -10,4 +10,4 @@ nav_order: 4
 <ul>
   <li>Guest lectures and teaching assistant experience (details to be updated).</li>
 </ul>
-<p>For course-related inquiries, please contact me by <a href="mailto:bin@smu.edu">email</a>.</p>
+<p>For course-related inquiries, please contact me by <a href="mailto:binhuangcn95@gmail.com">email</a>.</p>

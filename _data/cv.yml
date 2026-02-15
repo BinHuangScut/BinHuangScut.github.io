@@ -2,8 +2,8 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Bin Huang
+    - name: Email
+      value: binhuangcn95@gmail.com
     - name: Languages
-      value: English, German
+      value: English, Chinese

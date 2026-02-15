@@ -1,4 +1,4 @@
-# Match tbendong.github.io: About, Publications, Research, Teaching, CV, Services, People, Openings
+# About, Publications, Research, Teaching, CV, Services, Blog posts (People & Openings hidden for now)
 main:
   - title: "About"
     url: /
@@ -18,8 +18,5 @@ main:
   - title: "Services"
     url: /services/
 
-  - title: "People"
-    url: /people/
-
-  - title: "Openings"
-    url: /openings/
+  - title: "Blog posts"
+    url: /year-archive/
