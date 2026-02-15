@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://binhuangscut.github.io/sitemap.xml
